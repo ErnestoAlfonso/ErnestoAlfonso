@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Ernesto;I'm+from+Cuba+🌎+Havana)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Hi+👋+I'm+Ernesto;I'm+from+Cuba+🌎+Havana)](https://git.io/typing-svg)
 
 <!--
 **ErnestoAlfonso/ErnestoAlfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width=100% heigth=100% alaign=center source="https://admin.tops-int.com/storage/media/editor_images/85858.jpg"/>
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
 
 ## 👨🏻‍💻 About me
 - 📧 Reach me via ernealfonso00@gmail.com
+
+<br/>
+
+<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<br/>
+ <em><b>Henry Ford</b></em>
+<br><br/>
+
+<p> I'm 23 years old and graduated with a degree in Bachelor of Computer Scientist</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,7 +55,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErnestoAlfonso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErnestoAlfonso&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErnestoAlfonso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"  width="100%"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErnestoAlfonso&layout=compact&langs_count=8&theme=algolia"  width="100%"/>
 </a>
 </p>
