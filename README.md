@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align='center'><em><b>Coming together is a beginning; keeping together is progress; working together is success.</b></em>
+<p align='center'><em><b>Pation for what you do it will make you understand that your limits are mental</b></em>
 <br/>
- <em><b>Henry Ford</b></em>
+ <em><b></b></em>
 <br><br/>
 
 <p> I'm 23 years old and graduated with a degree in Bachelor of Computer Scientist</p>
