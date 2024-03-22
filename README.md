@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <em><b></b></em>
 <br><br/>
 
-<p> I'm 23 years old and graduated with a degree in Bachelor of Computer Scientist</p>
+<p> I'm 23 years old, graduated with a degree in Bachelor of Computer Scientist</p>
 
 ### 🛠 &nbsp;Tech Stack
 
